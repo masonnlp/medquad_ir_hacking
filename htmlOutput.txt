@@ -1,0 +1,77 @@
+5% or fewer of the cells in the bone marrow are blasts ( leukemia cells).
+There are no signs or symptoms of leukemia other than in the bone marrow.
+Recurrent adult ALL
+Recurrent adult ALL is cancer that has recurred (come back) after
+		going into remission . The ALL may come back in the blood , bone
+		marrow , or other parts of the body.
+Treatment Option Overview
+There are different types of treatment for patients with adult
+		  ALL.
+The treatment of adult ALL usually has two phases.
+Four types of standard treatment are used:
+Chemotherapy
+Chemotherapy with stem cell transplant
+Targeted therapy
+New types of treatment are being tested in clinical trials.
+Immunotherapy
+Patients may want to think about taking part in a clinical trial.
+Patients can enter clinical trials before, during, or after starting their cancer treatment.
+Treatment for adult acute lymphoblastic leukemia may cause side effects.
+Follow-up tests may be needed.
+There are different types of treatment for patients with adult
+		  ALL.
+Different types of treatment are available for patients with adult acute lymphoblastic leukemia (ALL). Some treatments are standard (the currently used treatment), and some are
+		  being tested in clinical trials . A
+		  treatment clinical trial is a research study meant to help improve current
+		  treatments or obtain information on new treatments for patients with cancer .
+		  When clinical trials show that a new treatment is better than the
+		  standard treatment, the new
+		  treatment may become the standard treatment.    Patients may want to think about taking part in a clinical trial. Some clinical trials are open only to patients who have not started treatment.
+The treatment of adult ALL usually has two phases.
+The treatment of adult ALL is done in phases:
+Remission induction therapy : This is the first phase of treatment.  The goal is to kill the leukemia cells in the blood and bone marrow .  This puts the leukemia into remission .
+Post-remission therapy : This is the second phase of treatment.  It begins once the leukemia is in remission.  The goal of post-remission therapy is to kill any remaining leukemia cells that may not be active but could begin to regrow and cause a relapse . This phase is also called remission continuation therapy.
+Treatment called central nervous system (CNS) prophylaxis therapy is usually given during each phase of therapy.  Because standard doses of chemotherapy may not reach leukemia cells in the CNS (brain and spinal cord ), the leukemia cells are able to hide in the CNS. Systemic chemotherapy given in high doses , intrathecal chemotherapy , and radiation therapy to the brain are able to reach leukemia cells in the CNS. These treatments are given to kill the leukemia cells and lessen the chance  the leukemia will recur (come back).
+Four types of standard treatment are used:
+Chemotherapy
+Chemotherapy is a cancer treatment that uses drugs to stop the growth of cancer cells, either by killing the cells or by stopping them from dividing. When chemotherapy is taken by mouth or injected into a vein or muscle, the drugs enter the bloodstream and can reach cancer cells throughout the body (systemic chemotherapy).  When chemotherapy is placed directly into the cerebrospinal fluid (intrathecal chemotherapy), an organ , or a body cavity such as the abdomen , the drugs mainly affect cancer cells in those areas ( regional chemotherapy ). Combination chemotherapy is treatment using more than one anticancer drug.
+Intrathecal chemotherapy may be used to treat adult ALL that has spread, or may spread, to the brain and spinal cord.  When used to lessen the chance leukemia cells will spread to the brain and spinal cord, it is called CNS prophylaxis.
+Enlarge
+Intrathecal chemotherapy. Anticancer drugs are injected into the intrathecal space, which is the space that holds the cerebrospinal fluid (CSF, shown in blue). There are two different ways to do this. One way, shown in the top part of the figure, is to inject the drugs into an Ommaya reservoir (a dome-shaped container that is placed under the scalp during surgery; it holds the drugs as they flow through a small tube into the brain). The other way, shown in the bottom part of the figure, is to inject the drugs directly into the CSF in the lower part of the spinal column, after a small area on the lower back is numbed.
+See Drugs Approved for Acute Lymphoblastic Leukemia for more information.
+Radiation therapy
+Radiation therapy is a cancer treatment that uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. External radiation therapy uses a machine outside the body to send radiation toward the cancer.
+External radiation therapy may be used to treat adult ALL that has spread, or may spread, to the brain and spinal cord.  When used this way, it is called central nervous system (CNS) sanctuary therapy or CNS prophylaxis. Total-body irradiation may  be used to send radiation toward the whole body when preparing for a stem cell transplant . External radiation therapy may also be used as palliative therapy to relieve symptoms and improve quality of life .
+Chemotherapy with stem cell transplant
+Chemotherapy is given to kill cancer cells. Healthy cells, including blood-forming cells, are also destroyed by the cancer treatment. Stem cell transplant is a treatment to replace the blood-forming cells. Stem cells (immature blood cells) are removed from the blood or bone marrow of the patient or a donor and are frozen and stored. After the patient completes chemotherapy or total-body radiation therapy, the stored stem cells are thawed and given back to the patient through an infusion . These reinfused stem cells grow into (and restore) the body's blood cells.
+Enlarge
+Stem cell transplant. (Step 1): Blood is taken from a vein in the arm of the donor. The patient or another person may be the donor. The blood flows through a machine that removes the stem cells. Then the blood is returned to the donor through a vein in the other arm. (Step 2): The patient receives chemotherapy to kill blood-forming cells. The patient may receive radiation therapy (not shown). (Step 3): The patient receives stem cells through a catheter placed into a blood vessel in the chest.
+Targeted therapy
+Targeted therapy is a type of treatment that uses drugs or other substances to attack cancer cells. Targeted therapy may cause less harm to normal cells than chemotherapy or radiation therapy do.
+Monoclonal antibody therapy: This treatment uses antibodies made in the laboratory, from a single type of immune system cell. These antibodies can identify substances on cancer cells or normal substances that may help cancer cells grow.  The antibodies attach to the substances and kill the cancer cells, block their growth, or keep them from spreading. Monoclonal antibodies are given by infusion. They may be used alone or to carry drugs, toxins , or radioactive material directly to cancer cells. Blinatumomab and inotuzumab ozogamicin are monoclonal antibodies used with stem cell transplant to treat adult ALL.
+Tyrosine kinase inhibitor therapy: This treatment blocks the enzyme , tyrosine kinase, that causes stem cells to develop into more white blood cells ( blasts ) than the body needs. Imatinib mesylate , dasatinib , and nilotinib are tyrosine kinase inhibitors used to treat adult ALL.
+See Drugs Approved for Acute Lymphoblastic Leukemia for more information.
+New types of treatment are being tested in clinical trials.
+This summary section describes treatments that are being studied in
+		  clinical trials.  It may not mention every new treatment being studied.
+		  Information about clinical trials is available from the NCI website .
+Immunotherapy
+Immunotherapy is a treatment that uses the patient's immune system to fight cancer.  Substances made by the body or made in a laboratory are used to boost, direct, or restore the body's natural defenses against cancer.  This type of cancer treatment is also called biotherapy or biologic therapy.
+CAR T-cell therapy : This treatment changes the patient's T cells (a type of immune system cell) so they will attack certain proteins on the surface of cancer cells. T cells are taken from the patient and special receptors are added to their surface in the laboratory. The changed cells are called chimeric antigen receptor (CAR) T cells. The CAR T cells are grown in the laboratory and given to the patient by infusion. The CAR T cells multiply in the patient's blood and attack cancer cells. CAR T-cell therapy is being studied in the treatment of adult ALL that has recurred (come back).
+Enlarge
+CAR T-cell therapy. A type of treatment in which a patient’s T cells (a type of immune cell) are changed in the laboratory so they will bind to cancer cells and kill them. Blood from a vein in the patient’s arm flows through a tube to an apheresis machine (not shown), which removes the white blood cells, including the T cells, and sends the rest of the blood back to the patient. Then, the gene for a special receptor called a chimeric antigen receptor (CAR) is inserted into the T cells in the laboratory. Millions of the CAR T cells are grown in the laboratory and then given to the patient by infusion. The CAR T cells are able to bind to an antigen on the cancer cells and kill them.
+Patients may want to think about taking part in a clinical trial.
+For some patients, taking part in a clinical trial may be the best treatment choice. Clinical trials are part of the cancer research process. Clinical trials are done to find out if new cancer  treatments are safe and effective or better than the standard treatment .
+Many of today's standard treatments for cancer are based on earlier clinical trials. Patients who take part in a clinical trial may receive the standard treatment or be among the first  to receive a new treatment.
+Patients who take part in clinical trials also help improve the way cancer will be treated in the future. Even when clinical trials do not lead to effective new treatments, they often answer important questions and help move research forward.
+Patients can enter clinical trials before, during, or after starting their cancer treatment.
+Some clinical trials only include patients who have not yet received treatment. Other trials test treatments for patients whose cancer has not gotten better. There are also clinical trials that test new ways to stop cancer from recurring (coming back) or reduce the side effects of cancer treatment.
+Clinical trials are taking place in many parts of the country. Information about clinical trials supported by NCI can be found on NCI’s clinical trials search webpage. Clinical trials supported by other organizations can be found on the ClinicalTrials.gov website.
+Treatment for adult acute lymphoblastic leukemia may cause side effects.
+For information about side effects that begin during treatment for cancer, see our Side Effects page.
+Side effects from cancer treatment that begin after treatment and continue for months or years are called late effects . Late effects of treatment for ALL may include the risk of second cancers (new types of cancer). Regular follow-up exams are very important for long-term survivors .
+Follow-up tests may be needed.
+Some of the tests that were done to diagnose the cancer or to find out the stage of the cancer may be repeated. Some tests will be repeated in order to see how well the treatment is working. Decisions about whether to continue, change, or stop treatment may be based on the results of these tests.
+Some of the tests will continue to be done from time to time after treatment has ended. The results of these tests can show if your condition has changed or if the cancer has recurred (come back). These tests are sometimes called follow-up tests or check-ups.
+Treatment of Untreated Adult Acute Lymphoblastic Leukemia
+For information about the treatments listed below, see the Treatment Option Overview section.
